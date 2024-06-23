@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey! 🌊
 
-<!--
-**cbunt/cbunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cass Bunting, a graphics-programmer, technical artist, and (as of recently)   
+web developer in Vancouver, BC. I'm excited about real time rendering, developing   
+useful, streamlined technical tools for other artists and developers, and creating  
+unique interactive experiences.  
 
-Here are some ideas to get you started:
+Aside from working with graphics, my overwhelmingly numerous hobbies include
+playing music, hiking, cooking, reading about history and social theory,
+creative writing, and—of course—playing video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Thing        | Favorite                 |
+|--------------|--------------------------|
+| guitar pedal | fuzz                     |
+| algorithm    | Voronoi noise            |
+| flavor       | sweet                    |
+| weather      | moody                    |
+| distro       | alpine                   |
